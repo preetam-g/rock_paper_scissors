@@ -1,3 +1,5 @@
+# this file consists of all the variables, classes with methods that are being used in the main.py to run the simulation
+
 import turtle as tt
 import random
 scissors = "scissors.gif"
