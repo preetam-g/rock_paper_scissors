@@ -9,3 +9,5 @@ Make sure you have all the files in the same directory, and then use the termina
 
 Here is a clip of the simulation.
 ![simulation](https://github.com/preetam-g/rock_paper_scissors/assets/118665778/2243eb5e-b270-4425-b875-7c6e0d71e0e9)
+
+![test_result_1](https://github.com/preetam-g/RRT_implementation/assets/118665778/3941af10-0776-42f8-bc34-6d97cf170b61)
