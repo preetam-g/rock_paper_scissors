@@ -8,5 +8,5 @@ The main.py contains all the code required to run the simulation, and the shapes
 Make sure you have all the files in the same directory, and then use the terminal in your code editor to change into the current directory. Then, type the "python main.py" command in the terminal to run the simulation. 
 
 Here is a clip of the simulation.
-![simulation](https://github.com/preetam-g/rock_paper_scissors/assets/118665778/507d4f6d-8ae0-4ff2-a5a8-5499e122fe97)
+[simulation](https://github.com/preetam-g/rock_paper_scissors/assets/118665778/507d4f6d-8ae0-4ff2-a5a8-5499e122fe97)
 
